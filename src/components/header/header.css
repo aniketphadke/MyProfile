@@ -1,0 +1,14 @@
+.header_section{
+    background: #000;
+    color:#fff;
+    text-align: left;
+    /* margin-top: -25px; */
+    font-weight: 600;
+    font: 1em sans-serif;
+    height: 50px;
+    width: 100%;
+    padding: 5px 0px 10px 0px;
+}
+.profile_info{
+    color: #fff;
+}
